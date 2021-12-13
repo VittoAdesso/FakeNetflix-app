@@ -104,7 +104,7 @@ public drama: Films;
               alt: ""
             },
             {
-              src: "../../../assets/images/Anime/laputa.webp", 
+              src: "../../../assets/images/Comedia/laterminal.webp", 
               alt: ""
             },
             {
