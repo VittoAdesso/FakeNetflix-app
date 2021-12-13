@@ -35,7 +35,7 @@ public drama: Films;
             }, 
 
             hero: {
-                title: "Nº 1 in Spain today", 
+                title: "Nº ....", 
                 image: {
                         src: "../../../assets/images/Terror/malasana.webp",
                         alt: "Taquillera"
@@ -278,39 +278,35 @@ public drama: Films;
           title: "Sci-FY", 
           galleryImgs: [
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Sci-fi/12monos.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Sci-fi/6dia.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Sci-fi/core.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Sci-fi/gits.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Sci-fi/doom.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Sci-fi/jumper.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Sci-fi/transformers.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
-              alt: ""
-            },
-            {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Sci-fi/transformers.webp", 
               alt: ""
             }
           ]
@@ -321,39 +317,39 @@ public drama: Films;
           title: "Anime", 
           galleryImgs: [
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Anime/chihiro.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Anime/evangelion.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Anime/gitsarise.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Anime/gundam.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Anime/laputa.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Anime/mononoke.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Anime/perfectblue.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Anime/castilloambulante.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Anime/ajin.jpg", 
               alt: ""
             }
           ]
@@ -363,39 +359,39 @@ public drama: Films;
           title: "Drama", 
           galleryImgs: [
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Drama/clublucha.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Drama/corazones.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Drama/millaverde.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Drama/naufrago.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Drama/schindler.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Drama/sombradiablo.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Drama/unicosuperviviente.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Drama/clublucha.webp", 
               alt: ""
             },
             {
-              src: "../../../assets/images", 
+              src: "../../../assets/images/Drama/arrival.webp", 
               alt: ""
             }
           ]

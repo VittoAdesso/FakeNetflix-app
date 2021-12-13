@@ -1,21 +1,29 @@
 .hero {
-//     display: flex;
+// display: flex;
 //     justify-content: start;
 //     align-items: center; 
+padding: 40px;
+        
+        .imagen-hero{
+            border-radius: 2px;
 
-    .imagen-hero{
-        margin:50px;
-        width: 200px;
-        // height: 200px;
-        border-radius: 5px;
+        }
+
+        // width: 100px;
+        // height: 100px;
+        position: relative;
+        animation-name: example;
+        animation-duration: 4s;
+        animation-delay: -2s;
+
         @keyframes example {
-            0%   { left:0px; top:0px;}
-            25%  { left:200px; top:0px;}
+            0%   {left:0px; top:0px;}
+            25%  {left:200px; top:0px;}
             50%  {left:200px; top:200px;}
             75%  {left:0px; top:200px;}
-            100% {ft:0px; top:0px;}
+            100% {left:0px; top:0px;}
           }
-    } 
+} 
    
    
-}
+
