@@ -1,10 +1,13 @@
 <div class="films">
+
     <h2>{{films.title}}</h2>
-    <div class="gallery">
-        <div *ngFor="let image of films.galleryImgs">
-        <img class="imagen" src="{{image.src}}" alt="{{image.alt}}"/>
-    </div>
-    </div>
+
+        <div class="gallery">
+            <div *ngFor="let image of films.galleryImgs">
+            <img class="imagen" src="{{image.src}}" alt="{{image.alt}}"/>
+            
+            </div>
+        </div>
 </div>
 
 <!-- éste será un patrón que utilizaré para que me pinte de igual manera el resto de films... Ya que uso el recorrido de la interfaxce films y es lo que necesitaré para el resto de géneros -->

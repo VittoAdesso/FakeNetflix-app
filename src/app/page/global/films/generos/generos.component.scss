@@ -1,18 +1,27 @@
 .films{
     padding: 40px;
+    // max-width: 800px;
+    margin-top: 0px; 
+    margin-bottom: 10px;
+    
+    max-width: 800px;
         .gallery{
             display: flex;
+            
             img{
+                  
                 margin:3px;
                 height: 200px;
-                border-radius: 2px;;
+                border-radius: 2px;
+
                &.imagen:hover{
                 // filter: sepia(60%); // si ?? no??? 
                 -webkit-transform:scale(1.3);transform:scale(1.3)
            
             }
             }
-
-
         }
+}
+h2{
+       font-size: 20px;  
 }
