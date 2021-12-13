@@ -1,0 +1,23 @@
+
+<!-- el hijo leerá la variable que contendrá los valores declarados en this. en global.ts -->
+
+<!-- estructura inicial -->
+<app-nav [nav]="netflixModel.nav"></app-nav>
+<app-hero [hero]="netflixModel.hero"></app-hero>
+<app-films [films]="netflixModel.films"></app-films> 
+<!-- hasta aquí la parte ppal -->
+
+<!-- para que me funcionen, debo hacer el input en cada hijo o mini componente...  -->
+
+<!-- ahora comienzo a crear las listas de los generos de las peliculas...  -->
+<app-generos [films]="keepWatching"></app-generos>
+<app-generos [films]="yourList"></app-generos>
+<app-generos [films]="recomendation"></app-generos>
+<app-generos [films]="action"></app-generos>
+<app-generos [films]="comedy"></app-generos>
+<app-generos [films]="terror"></app-generos>
+<app-generos [films]="scify"></app-generos>
+<app-generos [films]="anime"></app-generos>
+<app-generos [films]="drama"></app-generos>
+
+

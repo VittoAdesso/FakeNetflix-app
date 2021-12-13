@@ -1,0 +1,21 @@
+.hero {
+//     display: flex;
+//     justify-content: start;
+//     align-items: center; 
+
+    .imagen-hero{
+        margin:50px;
+        width: 200px;
+        // height: 200px;
+        border-radius: 5px;
+        @keyframes example {
+            0%   { left:0px; top:0px;}
+            25%  { left:200px; top:0px;}
+            50%  {left:200px; top:200px;}
+            75%  {left:0px; top:200px;}
+            100% {ft:0px; top:0px;}
+          }
+    } 
+   
+   
+}

@@ -1,0 +1,26 @@
+.nav-ppal {
+  display: flex;
+  // background-color: transparent;
+  justify-content: space-around;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+//   margin:0;
+
+
+        // max-width: 800px;
+             .logo {
+             width: 100px;
+             display: flex; 
+             justify-content: start;
+            }
+            a{
+             text-decoration: none;
+            }    
+          
+      .usuario{
+          width: 40px;
+    }
+
+        
+}
