@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 --- 
 ## Application preview
 
-<img src="./src/assets/1.png" with=100>
+<img src="./src/assets/view.png" with=100>
 
 --- 
 
